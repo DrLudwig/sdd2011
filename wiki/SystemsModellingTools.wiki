@@ -1,0 +1,21 @@
+#summary Systems modelling tools - Research task
+#labels SystemModelling
+
+= Introduction =
+
+Use the BOS course specification document to create a powerpoint about your modelling tool (5-10 pages) and present to the class. Please upload your powerpoint under Downloads.
+
+
+= Details =
+
+* Tristan: IPO diagrams
+Ryan: Context diagrams
+Robert: Data flow diagrams
+Steven: Structure chart
+James: System flowcharts
+Max: Data dictionary
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
