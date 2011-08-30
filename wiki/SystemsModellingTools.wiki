@@ -1,12 +1,9 @@
 #summary Systems modelling tools - Research task
-#labels SystemModelling
+#labels SystemModelling,IPOdiagrams,Contextdiagrams
 
 = Systems modelling tools - Research task =
 
 Use the BOS course specification document to create a powerpoint about your modelling tool (5-10 pages) and present to the class. Upload your powerpoint under Downloads.
-
-
-= Details =
 
   * Tristan: IPO diagrams
   * Ryan: Context diagrams
@@ -14,8 +11,3 @@ Use the BOS course specification document to create a powerpoint about your mode
   * Steven: Structure chart
   * James: System flowcharts
   * Max: Data dictionary
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
