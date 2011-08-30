@@ -1,0 +1,9 @@
+﻿<Window x:Class="WpfApplication1.Error_PublicHolidaysHours"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Error_PublicHolidaysHours" Height="100" Width="410">
+    <Grid>
+        <Label Content="Please Enter the Number of Public Holiday Hours as a Positive Number" Height="28" HorizontalAlignment="Left" Name="errormessage" VerticalAlignment="Top" Width="388" />
+        <Button Content="Continue" Margin="163,39,0,0" Name="button1" Height="22" VerticalAlignment="Top" HorizontalAlignment="Left" Width="72" Click="button1_Click" />
+    </Grid>
+</Window>
