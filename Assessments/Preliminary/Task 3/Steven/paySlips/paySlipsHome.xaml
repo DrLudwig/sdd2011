@@ -1,0 +1,34 @@
+﻿<Page x:Class="paySlips.paySlipsHome"
+      
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="500" d:DesignWidth="650"
+	  Title="PaySlips - Home">
+    
+        <Grid>
+        <Grid.ColumnDefinitions>
+
+            <ColumnDefinition Width="200"></ColumnDefinition>
+            <ColumnDefinition>
+
+            </ColumnDefinition>
+
+        </Grid.ColumnDefinitions>
+
+
+
+
+        <Image  Height="Auto" HorizontalAlignment="Left" Name="image1" Stretch="Fill" VerticalAlignment="Top" Width="635" Source="images/financeTheme.jpg" OpacityMask="#7E000000" />
+        <Label Grid.Column="1" 
+               Content="Welcome!" Margin="17,12,73,309" FontSize="40" HorizontalContentAlignment="Left" FontFamily="Impact" VerticalContentAlignment="Center" FlowDirection="LeftToRight" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Width="360" />
+        <Button  Content="Next" Height="Auto" HorizontalAlignment="Left" Margin="55,356,0,0" Name="nextWage" Click="nextWage_Click" VerticalAlignment="Top" Width="75" />
+        <Button Content="Cancel" Height="Auto" HorizontalAlignment="Left" Margin="55,397,0,0" Name="cancelClick" VerticalAlignment="Top" Width="75" Click="cancel_Click" />
+        <Label 
+            Content="This program will step you through calculating your employee's salary." 
+                 Grid.Column="1" Height="38" HorizontalAlignment="Left" Margin="17,187,0,0" Name="label1" VerticalAlignment="Top" Width="391" />
+        <Label Content="Click 'Next' to begin, or cancel to quit the wizard." Grid.Column="1" Height="28" HorizontalAlignment="Left" Margin="17,214,0,0" Name="begin" VerticalAlignment="Top" Width="272" />
+    </Grid>
+</Page>
