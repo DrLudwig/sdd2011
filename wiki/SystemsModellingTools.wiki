@@ -8,12 +8,12 @@ Use the BOS course specification document to create a powerpoint about your mode
 
 = Details =
 
-* Tristan: IPO diagrams
-* Ryan: Context diagrams
-* Robert: Data flow diagrams
-* Steven: Structure chart
-* James: System flowcharts
-* Max: Data dictionary
+  * Tristan: IPO diagrams
+  * Ryan: Context diagrams
+  * Robert: Data flow diagrams
+  * Steven: Structure chart
+  * James: System flowcharts
+  * Max: Data dictionary
 
 Add your content here.  Format your content with:
   * Text in *bold* or _italic_
