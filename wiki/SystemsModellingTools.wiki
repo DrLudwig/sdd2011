@@ -1,5 +1,5 @@
 #summary Systems modelling tools - Research task
-#labels SystemModelling,IPOdiagrams,Contextdiagrams
+#labels SystemModelling
 
 = Systems modelling tools - Research task =
 
