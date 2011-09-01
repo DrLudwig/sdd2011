@@ -9,7 +9,7 @@ namespace CreateRandomArray
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Create Random Array");
+            Console.WriteLine("Create Random Array  ");
         }
     }
 }
