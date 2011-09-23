@@ -9,6 +9,9 @@ namespace TeamCounts
     {
         static void Main(string[] args)
         {
+
+
+
         }
     }
 }
