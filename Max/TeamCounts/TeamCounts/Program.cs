@@ -31,61 +31,88 @@ namespace ConsoleApplication1
                     for (int count = 0; count < numberofschoolsint; count++)
                     {
                         int numbers = int.Parse(schoolsdetails[count]);
-                        int numberofthrees = numbers / 3;
-                        numbers = numbers % 3;
-                        int numberoftwos = numbers / 2;
-                        numbers = numbers % 2;
-                        int numberofones = numbers;
                         Console.Write("{0} participants = ", schoolsdetails[count]);
-                        if (numberofthrees > 1)
+                        if (numbers == 1)
                         {
-                            Console.Write("{0} teams of three", numberofthrees);
-                            if (numberoftwos > 0)
-                            {
-                                Console.Write(", ");
-                            }
-                            else if (numberofones > 0)
-                            {
-                                Console.Write(", ");
-                            }
+                            Console.Write("1 team of one");
                         }
-                        else if (numberofthrees == 1)
+                        else
                         {
-                            Console.Write("{0} team of three", numberofthrees);
-                            if (numberoftwos > 0)
+                            int numberofthrees = numbers / 3;
+                            int remainder= numbers % 3;
+                            int numberoftwos = remainder / 2;
+                            remainder = remainder % 2;
+                            if (remainder == 1)
                             {
-                                Console.Write(", ");
+                                numberoftwos = 2;
+                                remainder = numbers - 4;
+                                numberofthrees = remainder / 3;
+                                remainder = remainder % 3;
                             }
-                            else if (numberofones > 0)
+                            if (remainder == 0)
                             {
-                                Console.Write(", ");
+                                if (numberofthrees > 1)
+                                {
+                                    Console.Write("{0} teams of three", numberofthrees);
+                                    if (numberoftwos > 0)
+                                    {
+                                        Console.Write(", ");
+                                    }
+                                }
+                                else if (numberofthrees == 1)
+                                {
+                                    Console.Write("{0} team of three", numberofthrees);
+                                    if (numberoftwos > 0)
+                                    {
+                                        Console.Write(", ");
+                                    }
+                                }
+                                if (numberoftwos > 1)
+                                {
+                                    Console.Write("{0} teams of two", numberoftwos);
+                                }
+                                else if (numberoftwos == 1)
+                                {
+                                    Console.Write("{0} team of two", numberoftwos);
+                                }
                             }
-                        }
-                        if (numberoftwos > 1)
-                        {
-                            Console.Write("{0} teams of two", numberoftwos);
-                            if (numberofones > 0)
+                            else
                             {
-                                Console.Write(", ");
+                                numberoftwos = 1;
+                                remainder = numbers - 2;
+                                numberofthrees = remainder / 3;
+                                remainder = remainder % 3;
+                                if (remainder == 0)
+                                {
+                                    if (numberofthrees > 1)
+                                    {
+                                        Console.Write("{0} teams of three", numberofthrees);
+                                        if (numberoftwos > 0)
+                                        {
+                                            Console.Write(", ");
+                                        }
+                                    }
+                                    else if (numberofthrees == 1)
+                                    {
+                                        Console.Write("{0} team of three", numberofthrees);
+                                        if (numberoftwos > 0)
+                                        {
+                                            Console.Write(", ");
+                                        }
+                                    }
+                                    if (numberoftwos > 1)
+                                    {
+                                        Console.Write("{0} teams of two", numberoftwos);
+                                    }
+                                    else if (numberoftwos == 1)
+                                    {
+                                        Console.Write("{0} team of two", numberoftwos);
+                                    }
+                                }
                             }
-                        }
-                        else if (numberoftwos == 1)
-                        {
-                            Console.Write("{0} team of two", numberoftwos);
-                            if (numberofones > 0)
-                            {
-                                Console.Write(", ");
-                            }
-                        }
-                        if (numberofones > 1)
-                        {
-                            Console.Write("{0} teams of one", numberofones);
-                        }
-                        else if (numberofones == 1)
-                        {
-                            Console.Write("{0} team of one", numberofones);
                         }
                         Console.WriteLine();
+
                     }
                 }
                 
