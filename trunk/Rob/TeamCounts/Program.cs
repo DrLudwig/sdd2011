@@ -17,8 +17,10 @@ namespace TeamCounts
             Console.WriteLine("Input number of students wishing to participate:");
             numStudents = int.Parse(Console.ReadLine());
 
-            
-
+            if (numStudents > 0)
+            {
+                numStudents
+            }
         }
     }
 }
