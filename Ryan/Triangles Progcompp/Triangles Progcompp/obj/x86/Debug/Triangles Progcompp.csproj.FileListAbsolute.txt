@@ -1,0 +1,23 @@
+\\studentvolume.stlukes.corp\users\2012\ryanb2012\visual studio 2010\Projects\Triangles Progcompp\Triangles Progcompp\bin\Debug\Triangles Progcompp.exe
+\\studentvolume.stlukes.corp\users\2012\ryanb2012\visual studio 2010\Projects\Triangles Progcompp\Triangles Progcompp\bin\Debug\Triangles Progcompp.pdb
+\\studentvolume.stlukes.corp\users\2012\ryanb2012\visual studio 2010\Projects\Triangles Progcompp\Triangles Progcompp\obj\x86\Debug\ResolveAssemblyReference.cache
+\\studentvolume.stlukes.corp\users\2012\ryanb2012\visual studio 2010\Projects\Triangles Progcompp\Triangles Progcompp\obj\x86\Debug\Triangles Progcompp.exe
+\\studentvolume.stlukes.corp\users\2012\ryanb2012\visual studio 2010\Projects\Triangles Progcompp\Triangles Progcompp\obj\x86\Debug\Triangles Progcompp.pdb
+C:\Users\Administrator\Desktop\Triangles Progcompp\Triangles Progcompp\obj\x86\Debug\Triangles Progcompp.exe
+C:\Users\Administrator\Desktop\Triangles Progcompp\Triangles Progcompp\bin\Debug\Triangles Progcompp.exe
+C:\Users\Administrator\Desktop\Triangles Progcompp\Triangles Progcompp\bin\Debug\Triangles Progcompp.pdb
+C:\Users\Administrator\Desktop\Triangles Progcompp\Triangles Progcompp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Triangles Progcompp\Triangles Progcompp\obj\x86\Debug\Triangles Progcompp.pdb
+C:\Users\Administrator\Desktop\Triangles Progcompp\Triangles Progcompp\bin\Debug\TextFile1.txt
+E:\Triangles Progcompp\Triangles Progcompp\obj\x86\Debug\Triangles Progcompp.exe
+E:\Triangles Progcompp\Triangles Progcompp\obj\x86\Debug\Triangles Progcompp.pdb
+E:\Triangles Progcompp\Triangles Progcompp\bin\Debug\TextFile1.txt
+E:\Triangles Progcompp\Triangles Progcompp\bin\Debug\Triangles Progcompp.exe
+E:\Triangles Progcompp\Triangles Progcompp\bin\Debug\Triangles Progcompp.pdb
+E:\Triangles Progcompp\Triangles Progcompp\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Triangles Progcompp\Triangles Progcompp\obj\x86\Debug\Triangles Progcompp.exe
+F:\Triangles Progcompp\Triangles Progcompp\obj\x86\Debug\Triangles Progcompp.pdb
+F:\Triangles Progcompp\Triangles Progcompp\bin\Debug\TextFile1.txt
+F:\Triangles Progcompp\Triangles Progcompp\bin\Debug\Triangles Progcompp.exe
+F:\Triangles Progcompp\Triangles Progcompp\bin\Debug\Triangles Progcompp.pdb
+F:\Triangles Progcompp\Triangles Progcompp\obj\x86\Debug\ResolveAssemblyReference.cache
