@@ -28,6 +28,16 @@ namespace ConsoleApplication1
 
         private static void Calculate(string CurrentLine)
         {
+            char[] letters = CurrentLine.ToCharArray();
+            int total = 0;
+            foreach (char ch in letters)
+            {
+                if (ch == 'M')
+                {
+                    total += 1000;
+                }
+            }
+
             Console.WriteLine(CurrentLine);
 
         }
