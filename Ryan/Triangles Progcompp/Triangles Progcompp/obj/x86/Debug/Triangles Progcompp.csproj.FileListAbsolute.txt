@@ -21,3 +21,9 @@ F:\Triangles Progcompp\Triangles Progcompp\bin\Debug\TextFile1.txt
 F:\Triangles Progcompp\Triangles Progcompp\bin\Debug\Triangles Progcompp.exe
 F:\Triangles Progcompp\Triangles Progcompp\bin\Debug\Triangles Progcompp.pdb
 F:\Triangles Progcompp\Triangles Progcompp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\sdd2011\Ryan\Triangles Progcompp\Triangles Progcompp\obj\x86\Debug\Triangles Progcompp.exe
+C:\sdd2011\Ryan\Triangles Progcompp\Triangles Progcompp\obj\x86\Debug\Triangles Progcompp.pdb
+C:\sdd2011\Ryan\Triangles Progcompp\Triangles Progcompp\bin\Debug\TextFile1.txt
+C:\sdd2011\Ryan\Triangles Progcompp\Triangles Progcompp\bin\Debug\Triangles Progcompp.exe
+C:\sdd2011\Ryan\Triangles Progcompp\Triangles Progcompp\bin\Debug\Triangles Progcompp.pdb
+C:\sdd2011\Ryan\Triangles Progcompp\Triangles Progcompp\obj\x86\Debug\ResolveAssemblyReference.cache
