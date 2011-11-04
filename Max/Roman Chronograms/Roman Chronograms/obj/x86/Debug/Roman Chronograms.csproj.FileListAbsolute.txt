@@ -1,0 +1,6 @@
+C:\Users\maxf2012\Desktop\Roman Chronograms\Roman Chronograms\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\maxf2012\Desktop\Roman Chronograms\Roman Chronograms\bin\Debug\TextFile1.txt
+C:\Users\maxf2012\Desktop\Roman Chronograms\Roman Chronograms\bin\Debug\Roman Chronograms.exe
+C:\Users\maxf2012\Desktop\Roman Chronograms\Roman Chronograms\bin\Debug\Roman Chronograms.pdb
+C:\Users\maxf2012\Desktop\Roman Chronograms\Roman Chronograms\obj\x86\Debug\Roman Chronograms.exe
+C:\Users\maxf2012\Desktop\Roman Chronograms\Roman Chronograms\obj\x86\Debug\Roman Chronograms.pdb
